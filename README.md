@@ -16,6 +16,14 @@ Not currently available (demo only)
 - Win by surviving all the waves - lose if enemies reach the end
 - 5 levels with increasing difficulty
 
+### Backend and Accounts
+- Login and registration system with input validation
+- Player data stored in a locally hosted SQL database
+- Communication via UnityWebRequests and PHP
+- Database tracks user progression and statistics
+
+Database demonstration: https://drive.google.com/file/d/1skhPunrKvmJLoHP35J7oD3QChp_8WiT4/view?usp=sharing
+
 ### Towers and Mechanics
 - 8 Unique towers, each with distinct abilities and parameters
 - Upgrading and selling system
@@ -27,14 +35,6 @@ Not currently available (demo only)
 - Enemies follow dynamically generated waypoint paths
 - Barracks tower spawns soldiers that block and fight enemies.
 - Enemy navigation switches from pathing to combat when in range of soliders.
-
-### Backend and Accounts
-- Login and registration system with input validation
-- Player data stored in a locally hosted SQL database
-- Communication via UnityWebRequests and PHP
-- Database tracks user progression and statistics
-
-Database demonstration: https://drive.google.com/file/d/1skhPunrKvmJLoHP35J7oD3QChp_8WiT4/view?usp=sharing
 
 ### Skills Demonstrated
 - Unity and C# game development
